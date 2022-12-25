@@ -7,4 +7,6 @@
 
 ### Сначало объявляется два массива: изначальный и вторый такой же длины. Потом метод, в котором цикл соразмерный длине массива, внутри цикла проверка условия ( <=3 ), если да элемент первого массива заносится в count элемент второго массива. Переменная count чтобы поочередно закидывать из первого массива во второй и чтобы потом не было пробелов. После присвоения увеличивается переменная count на 1 и возвращается к циклу for в котором i увеличивается на 1. И так проверяется до конца.
 
-### Блок-схема алгоритма ![Схема](https://sun9-north.userapi.com/sun9-83/s/v1/ig2/UZtYEpkvV4Ls41I9uX8t_yab8mbTIwpchCZgoEAhjBUEaR6HdGNOcLY1_qtQUOhAutacTdpRSf1o7q3nDabrFx3z.jpg?size=464x422&quality=96&type=album "Схема алгоритма").
+### Блок-схема алгоритма 
+
+![Схема](https://sun9-north.userapi.com/sun9-83/s/v1/ig2/UZtYEpkvV4Ls41I9uX8t_yab8mbTIwpchCZgoEAhjBUEaR6HdGNOcLY1_qtQUOhAutacTdpRSf1o7q3nDabrFx3z.jpg?size=464x422&quality=96&type=album "Схема алгоритма").
